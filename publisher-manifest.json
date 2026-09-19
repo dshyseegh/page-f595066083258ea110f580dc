@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0fd21dab4191a0d32390e6d9",
+  "owner": "dshyseegh",
+  "repo": "page-f595066083258ea110f580dc",
+  "title": "Windup",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f595066083258ea110f580dc",
+      "a": "Windup",
+      "b": "免费clash订阅",
+      "entity": "Windup",
+      "brand": "Windup",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f292c7c1dfb78caa05fe59dab28b9dbb643c2e4f60be234fa598611bad584025",
+      "content": {
+        "primary_entity": "Windup",
+        "keyword1": "Windup",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "在常用设备上选择对应客户端，按文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLOSING_TEXT": "按设备选好客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "轻松连接，畅快访问",
+          "AI_DESCRIPTION": "，围绕不同设备与流量需求划分了基础版、旗舰版与团队版，月付或年付均可选，年付更划算。订阅周期与同时在线设备数直接关联，选择时可先确认常用设备数量与每月大致流量。客户端方面提供 Clash 等常见工具的导入指引，订阅配置完成后即可在对应平台使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量与订阅周期三个角度快速判断。",
+          "AI_FEATURES_TITLE": "为什么选择 Windup",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常用量挑选更省。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备，按同时在线数量匹配。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付优惠，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TITLE_3": "按周期算成本",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的过程。",
+          "AI_GUIDE_TITLE": "上手步骤",
+          "AI_HERO_INTRO": "Windup 提供面向海外访问的加速订阅服务，按流量、设备数与线路类型划分套餐，支持月付与年付。选择时可先确认常用设备数量，再结合每月流量预估与线路偏好，在基础版、旗舰版、团队版之间对比。",
+          "AI_HERO_SUBTITLE": "按需选套餐，连接更顺畅",
+          "AI_HIGHLIGHT_1": "月付灵活，年付更优惠",
+          "AI_HIGHLIGHT_2": "多档套餐匹配设备数量",
+          "AI_HIGHLIGHT_3": "常见客户端导入指引",
+          "AI_PLANS_INTRO": "基础版适合轻度上网，旗舰版适合流媒体与游戏，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认所在设备平台与同时在线设备数，检查套餐是否满足。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Windup 加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合个人日常影音浏览，每月 100GB 流量与 3 台设备；若有游戏加速与流媒体解锁需求，旗舰版每月 300GB、支持 5 台设备并配 IPLC 专线更为合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。多设备同时在线时建议根据常用终端数量选择对应套餐，避免超出上限。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用可优先考虑年付方案，短期试用则按月付更灵活。",
+          "AI_FAQ_ANSWER_4": "在对应设备的客户端中新建配置，粘贴 Windup 订阅链接并保存，客户端会自动拉取节点信息，随后选择节点即可连接。",
+          "AI_FAQ_ANSWER_5": "可以。团队版支持企业定制路由并配备专属客户经理，团队版每月 1000GB 流量、支持 20 台设备，适合小团队统一配置使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版适合多人使用吗？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0198d3a513d3d280e4111e9f58fcfba3445705679a82b842e5d57c5b553053f2",
+    "sitemap.xml": "76fd85089fab89c34269643382afcfc899f1943ac1f7fe8d7e20f436f602d5f4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a82214e370a02ba7541e68f94a02117285772a3f155b8df92e1b4e318b78225e"
+}
